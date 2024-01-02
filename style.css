@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: green;
+    padding: 30px;
+    text-align: center;
+}
+header a{
+    color: #fff;
+    margin-left: 10px;
+}
+main{
+    height: 80vh;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 30px;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+footer a{
+    color: #fff;
+    margin-left: 10px;
+}
